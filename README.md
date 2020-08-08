@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/fdnflm/fdnflm/blob/master/logo.gif">
 
-<!--
-**fdnflm/fdnflm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
 
-Here are some ideas to get you started:
+🤠 My name is Albert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my projects
+
+🐍 My favorite language is Python
+
+👯 I’m looking to collaborate with frontend devs
+
+⚡ Fun fact: Some cats are allergic to people. 
+
+<h2>Contacts</h2>
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fdnflm)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadinflame@gmail.com)
+
+</div>
