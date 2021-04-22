@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/fdnflm/fdnflm/blob/master/logo.gif">
 
 <h2>About me</h2>
 
