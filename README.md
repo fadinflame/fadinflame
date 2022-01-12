@@ -1,20 +1,30 @@
-<div align="center">
+fadinflame@github:~$ cd profile
 
-<h2>About me</h2>
+fadinflame@github:~/profile$ py show_about.py
 
-🤠 My name is Albert
+---
 
-🔭 I’m currently working on my projects
+Hi there 👋
 
-🐍 My favorite language is Python
+I'm a Backend Developer working in Penza, Russia.
 
-👯 I’m looking to collaborate with frontend devs
+I'm currently working at [Taxi GOST](https://taxigost.com)
 
-⚡ Fun fact: Some cats are allergic to people. 
+I use daily: python(django, drf, flask), javascript(pure, vue), php, bash, psql
 
+I automate all the things.
+
+Fast learner and eager to explore new technologies.
+
+Believer in team work and clean code.
+
+Always wanting to improve.
+
+Able and willing to think outside the box
+
+---
 <h2>Contacts</h2>
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fdnflm)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadinflame@gmail.com)
 
-</div>
