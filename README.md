@@ -8,9 +8,9 @@ Hi there 👋
 
 I'm a Backend Developer working in Penza, Russia.
 
-I'm currently working at [Taxi GOST](https://taxigost.com)
+I'm currently working at [tada.team](https://tada.team)
 
-I use daily: python(django, drf, flask), javascript(pure, vue), php, bash, psql
+Stack: Python/Go, JS/Vue
 
 I automate all the things.
 
